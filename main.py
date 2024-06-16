@@ -1,1 +1,1 @@
-print("hi yenkel")
+print("hdsnnfd,snf,i yenkel")
