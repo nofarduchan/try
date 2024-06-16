@@ -1,1 +1,1 @@
-print("hdsnnfd,snf,i yenkel")
+print("hi yenkel lo lahphor")
